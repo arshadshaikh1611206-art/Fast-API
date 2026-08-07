@@ -1,27 +1,39 @@
 # Python
+
 __pycache__/
 *.py[cod]
 
 # Virtual Environment
+
 venv/
 env/
 myenv/
 .venv/
 
 # Environment variables
+
 .env
 
 # IDE
+
 .vscode/
 .idea/
 
 # Logs
+
 *.log
 
 # Pytest
+
 .pytest_cache/
 
 # Build
+
 dist/
 build/
 *.egg-info/
+
+# Database
+
+*.sqlite3
+*.db
